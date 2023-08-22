@@ -1,0 +1,48 @@
+# Archivos generados por el sistema operativo
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+
+# Archivos generados por Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# Directorio de entorno virtual (si estás utilizando uno)
+venv/
+env/
+*.env
+
+# Directorio de dependencias de Node.js (si estás utilizando frontend)
+node_modules/
+npm-debug.log*
+
+# Archivos de configuración de IDEs y editores
+.idea/
+.vscode/
+*.sublime-*
+*.suo
+*.user
+*.sln.docstates
+
+# Archivos de configuración de Django
+db.sqlite3
+
+# Archivos de configuración personalizados
+*.conf
+*.config
+*.ini
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Carpeta de carga de medios (si utilizas medios en tu proyecto)
+media/
+migrations/
+
+# Carpeta de archivos estáticos (si utilizas archivos estáticos)
+static/
