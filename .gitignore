@@ -28,8 +28,7 @@ npm-debug.log*
 *.user
 *.sln.docstates
 
-# Archivos de configuración de Django
-db.sqlite3
+
 
 # Archivos de configuración personalizados
 *.conf
